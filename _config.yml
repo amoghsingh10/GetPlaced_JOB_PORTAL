@@ -1,5 +1,5 @@
 theme: jekyll-theme-primer
-
+source: FRONTEND
 # Prevent Jekyll from parsing files in these folders
 exclude:
   - node_modules
