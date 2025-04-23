@@ -1,0 +1,10 @@
+title: My Awesome Site
+description: A GitHub Pages site powered by Jekyll
+theme: jekyll-theme-primer
+
+exclude:
+  - node_modules
+  - vendor
+  - package.json
+  - yarn.lock
+  - README.md
