@@ -1,0 +1,11 @@
+theme: jekyll-theme-primer
+
+# Prevent Jekyll from parsing files in these folders
+exclude:
+  - node_modules
+  - vendor
+  - package.json
+  - yarn.lock
+  - README.md
+  - BACKEND/node_modules
+  - FRONTEND/node_modules
